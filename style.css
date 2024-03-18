@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.sai
+{
+    background-color:bisque;
+}
+.heading
+{
+    text-align: center;
+    background-color: rgb(37, 238, 238);
+}
+.target{
+    text-align: center;
+    background-color:rgb(202, 202, 58) (196,170,116)
+}
+.suresh{font-size: medium;
+    color: blue
+    (223, 29, 71);
+
+}
+.prasad{
+    font-size: small;
+    border: 2px solid black;
+    width: 700px;
+    height: 670px;
+    float: left;
+    background-color: rgb(192, 102, 102);
+    }
+    .gt{
+        text-align: center;
+        }
+        footer{
+            clear: both;
+            font: bold;
+        }
+   aside{
+            width: 350px;
+            border: 2px solid black;
+            height: 664px;
+            float:right;
+        background-color: rgb(187, 217, 221);
+        padding: 3px;
+        margin-right: 0px;
+        
+    }
+            .baby{
+                color: rgb(230, 16, 141);
+                
+            }  
+    .lit li{
+        margin-left: 20px;
+        height: 200px;
+       margin-top:20px ;
+    }
+    .mr{
+        background-color: rgba(240, 7, 135, 0.911);
+        text-align: center;
+    }
